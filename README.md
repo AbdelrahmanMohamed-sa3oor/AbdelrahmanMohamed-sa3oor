@@ -35,7 +35,7 @@
 ---
 
 ### ⚡ GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-dev&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-dev&layout=compact&count_private=true&theme=gruvbox" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanMohamed-sa3oor&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMohamed-sa3oor&layout=compact&count_private=true&theme=gruvbox" />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
