@@ -1,6 +1,8 @@
-# 👋 Hi, I'm **Abdelrahman Mohamed**
+# 👋 Hi, I’m **Abdelrahman Mohamed**  
+A passionate **React.js & Next.js Developer** who loves building modern, responsive, and high-performance web applications.  
+I’m highly dedicated to my work, always eager to learn, and committed to writing clean, scalable, and maintainable code.
+Creating beautiful user experiences and solving real-world problems through technology is what drives me every single day.
 
-### 💻 React & Next.js Developer | Passionate & Ambitious About My Work  
 
 ---
 
