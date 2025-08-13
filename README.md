@@ -1,60 +1,40 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0052D4&height=200&section=header&text=Hi%20I'm%20Abdelrahman%20Mohamed%20👋&fontSize=35&fontColor=fff&animation=fadeIn" />
-</p>
+## Hi there 👋 I’m **Abdelrahman Mohamed**, a passionate **React & Next.js Developer**.  
 
-<!-- Introduction -->
-<h3 align="center">💻 React & Next.js Developer | Frontend Enthusiast 🚀</h3>
-<p align="center">
-I’m a passionate developer who loves building modern, scalable, and high-performance web applications.
-</p>
+### 📬 Contact Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
+- 📧 Email: your.email@example.com  
+- 📱 Phone: +20-XXX-XXXXXXX  
+- 📰 [Dev.to](https://dev.to/YOUR_DEVTO)  
+- 🌍 [Portfolio](https://your-portfolio-link.com)  
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-  <br/>
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,nodejs,express,mongodb" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&count_private=true" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://dev.to/YOUR_DEVTO">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-  <a href="tel:+20XXXXXXXXXX">
-    <img src="https://img.shields.io/badge/Phone-%2300C853.svg?&style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
-</p>
+## 🚀💻 Technologies & Tools  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)  
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap)  
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux)  
+![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logo=zustand)  
+![ReactQuery](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query)  
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)  
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express)  
 
 ---
 
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0052D4&height=100&section=footer" />
-</p>
+## ⚡ GitHub Stats  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=gruvbox" />  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&count_private=true&theme=gruvbox" />  
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME)
