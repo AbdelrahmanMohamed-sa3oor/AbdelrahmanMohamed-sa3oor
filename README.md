@@ -1,17 +1,19 @@
-## Hi there 👋 I’m **Abdelrahman Mohamed**, a passionate **React & Next.js Developer**.
+# 👋 Hi, I'm **Abdelrahman Mohamed**
+
+### 💻 React & Next.js Developer | Passionate & Ambitious About My Work  
 
 ---
 
 ### 📬 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdelrahman-mohamed-47416125b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-mohamed-47416125b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelrahmaniphone2@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+201026262042)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201026262042)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/YOUR_DEVTO)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
 ---
 
-### 🚀💻 Technologies & Tools
+### 🚀 Technologies & Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
@@ -38,4 +40,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanMohamed-sa3oor&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMohamed-sa3oor&layout=compact&count_private=true&theme=gruvbox" />
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AbdelrahmanMohamed-sa3oor.AbdelrahmanMohamed-sa3oor)
