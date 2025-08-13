@@ -2,6 +2,12 @@
 
 I’m **Abdelrahman Mohamed**, a passionate **React & Next.js Developer**.
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+- 📧 Email: your.email@example.com
+- 📱 Phone: +20-XXX-XXXXXXX
+- 📰 [Dev.to](https://dev.to/YOUR_DEVTO)
+- 🌍 Portfolio: https://your-portfolio-link.com
+
 ## 🚀💻 Technologies & Tools
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
